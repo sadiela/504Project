@@ -1,5 +1,4 @@
 import java.util.HashMap;
-import java.util.Vector;
 
 public class Checker {
     HashMap<String, Integer> wordMap;
@@ -11,7 +10,8 @@ public class Checker {
         relationships = relat;
     }
 
-    double check(String phrase) {
+    double check(String phrase)
+    {
 
         double suspicionCount = 0;
         String[] words = phrase.split(" ");

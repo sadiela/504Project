@@ -1,3 +1,5 @@
+import com.marcoJava.Crawler;
+
 import java.util.HashMap;
 import java.util.Vector;
 
@@ -5,25 +7,37 @@ public class Main {
 
     public static void main(String[] args)
     {
-        Vector<String> a = new Vector<>();
-        a.add("this is our first sentence");
-        a.add( "here is another sentence");
-        HashMap<String,Integer> hm = new HashMap<>();
-        hm.put("this", 0);
-        hm.put("is", 1);
-        hm.put("our", 2);
-        hm.put("first", 3);
-        hm.put("sentence", 4);
-        hm.put("here", 5);
-        hm.put("another", 6);
+        // crawler
+        Crawler crawler = new Crawler();
+        crawler.scrape("https://algorithmics.bu.edu/fw/EC504/WebHome", 3);
+        HashMap<String,Integer> hm = crawler.WordMap;
+        Vector<String> sentences = crawler.sentences;
+        System.out.println("Done with crawler");
 
-        DB myDB = new DB(hm, a);
-        System.out.println("Done");
+//        for (String sent: sentences) {
+//            System.out.println(sent);
+//        }
+//        for (String name : hm.keySet())
+//            System.out.println("key: " + name);
 
+        // constructing database
+        DB myDB = new DB(hm, sentences);
+        System.out.println("Processing Complete");
+
+        // building checker
         Checker myCheck = new Checker(hm, myDB.relationships);
-        System.out.println(myCheck.check("this is our first sentence"));
-        System.out.println(myCheck.check("is this suspicious"));
-        System.out.println(myCheck.check("i bought a pineapple"));
+
+        // replace with input from file
+        Vector<String> testCases = new Vector<>();
+        testCases.add("this our is first sentence");
+        testCases.add("is this suspicious");
+        testCases.add("i bought a pineapple");
+        testCases.add("here i am");
+
+        for (String phrase: testCases)
+        {
+            System.out.println(phrase + "\t" + myCheck.check(phrase));
+        }
     }
 
 }
