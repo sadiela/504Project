@@ -9,14 +9,18 @@ public class Main {
     {
         // crawler
         Crawler crawler = new Crawler();
-        crawler.scrape("https://algorithmics.bu.edu/fw/EC504/WebHome", 3);
+        crawler.scrape("https://en.wikipedia.org/wiki/Wikipedia", 1);
         HashMap<String,Integer> hm = crawler.WordMap;
         Vector<String> sentences = crawler.sentences;
+
+
         System.out.println("Done with crawler");
+
 
 //        for (String sent: sentences) {
 //            System.out.println(sent);
 //        }
+//
 //        for (String name : hm.keySet())
 //            System.out.println("key: " + name);
 

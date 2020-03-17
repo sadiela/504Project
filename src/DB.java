@@ -13,9 +13,9 @@ public class DB {
         for(String s:sentences)
         {
             String[] words = s.split(" ");
-            for(int i = 0; i < words.length-1; i++)
+            for(int i = 0; i < words.length - 1; i++)
             {
-                relationships[wordMap.get(words[i])][wordMap.get(words[i+1])] = true;
+                relationships[wordMap.get(words[i])][wordMap.get(words[i + 1])] = true;
             }
         }
     }
