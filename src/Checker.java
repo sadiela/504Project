@@ -33,6 +33,11 @@ public class Checker {
             suspicionCount++;
         }
 
-        return suspicionCount/(words.length - 1);
+        if (words.length == 1)
+        {
+            return suspicionCount;
+        } else {
+            return suspicionCount/(words.length - 1);
+        }
     }
 }
