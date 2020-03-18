@@ -7,7 +7,7 @@ public class Crawler {
     private Set<String> pagesVisited = new HashSet<String>();
     private List<String> pagesToVisit = new LinkedList<String>();
     public HashMap<String,Integer> WordMap = new HashMap<>();
-    public Vector<String> sentences = new Vector<>();
+    public String WebContent;
     public Integer  id = 0;
 
     private String nextUrl(){
@@ -39,17 +39,14 @@ public class Crawler {
             if (currentUrl == "") { continue; }
 
             leg.crawl(currentUrl);
-            String formattedText = leg.htmlDocument.body().text().toLowerCase();
-            updateSentences(formattedText.split("\n"));
+            String formattedText = leg.htmlDocument.body().text().toLowerCase().replaceAll("[^a-zA-Z0-9 .]", "");
+            WebContent += formattedText;
+
             updateWordMap(formattedText.split("\\b"));
 
             this.pagesToVisit.addAll(leg.getLinks());
         }
         System.out.println(String.format("**Done** Visited %s web page(s)", this.pagesVisited.size()));
-    }
-
-    private void updateSentences(String[] newSentences) {
-        Collections.addAll(sentences, newSentences);
     }
 
     private void updateWordMap(String[] newWords) {

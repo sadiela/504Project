@@ -9,17 +9,14 @@ public class Main {
     {
         // crawler
         Crawler crawler = new Crawler();
-        crawler.scrape("https://en.wikipedia.org/wiki/Wikipedia", 1);
+        crawler.scrape("https://en.wikipedia.org/wiki/Wikipedia", 2);
         HashMap<String,Integer> hm = crawler.WordMap;
-        Vector<String> sentences = crawler.sentences;
-
+        String[] sentences = crawler.WebContent.split("\\. ");
 
         System.out.println("Done with crawler");
 
-
-//        for (String sent: sentences) {
-//            System.out.println(sent);
-//        }
+//        for (String sentence: sentences)
+//            System.out.println(sentence);
 //
 //        for (String name : hm.keySet())
 //            System.out.println("key: " + name);
@@ -39,9 +36,7 @@ public class Main {
         testCases.add("here i am");
 
         for (String phrase: testCases)
-        {
             System.out.println(phrase + "\t" + myCheck.check(phrase));
-        }
     }
 
 }

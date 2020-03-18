@@ -1,12 +1,11 @@
 import java.util.HashMap;
-import java.util.Vector;
 
 public class DB {
     // fields
     HashMap<String, Integer> wordMap;
     boolean[][] relationships;
 
-    public DB(HashMap<String, Integer> w, Vector<String> sentences)
+    public DB(HashMap<String, Integer> w, String[] sentences)
     {
         wordMap = w;
         relationships = new boolean[w.size()][w.size()];
