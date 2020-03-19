@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57572cae-8b64-4ba9-947e-de76cab7df58" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/504Project/Checker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/504Project/Checker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/504Project/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Checker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Checker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -37,19 +36,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/jsoup-1.13.1.jar!/" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -78,6 +82,7 @@
       <updated>1582755816287</updated>
       <workItem from="1582755821794" duration="3789000" />
       <workItem from="1584626489751" duration="91000" />
+      <workItem from="1584626992581" duration="4911000" />
     </task>
     <servers />
   </component>
@@ -92,13 +97,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="360" y="12" key="#DB/0.0.1280.680@0.0.1280.680" timestamp="1582757415272" />
+    <state x="371" y="97" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1584631276582">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="97" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1584631276582" />
     <state x="140" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584041757276">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="140" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1584041757276" />
-    <state x="534" y="326" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582782996776">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state x="500" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584627036966">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="500" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1584627036966" />
     <state x="534" y="326" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1368.872@0.0.1368.872" timestamp="1582782996776" />
     <state x="479" y="322" width="408" height="235" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584042141462">
       <screen x="0" y="0" width="1368" height="872" />
@@ -108,9 +118,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="484" y="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.680@0.0.1280.680" timestamp="1582757491093" />
-    <state x="465" y="192" key="FileChooserDialogImpl" timestamp="1584041997092">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state x="435" y="150" key="FileChooserDialogImpl" timestamp="1584628845463">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="435" y="150" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584628845463" />
     <state x="465" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1584041997092" />
     <state width="1877" height="127" key="GridCell.Tab.0.bottom" timestamp="1584492955708">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -160,20 +171,31 @@
     <state width="1877" height="347" key="GridCell.Tab.1.right/-412.1080.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1584490104324" />
     <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1582758874899" />
     <state width="1326" height="281" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1582837776172" />
-    <state x="379" y="128" key="SettingsEditor" timestamp="1584492492586">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="18" y="0" key="SettingsEditor" timestamp="1584629017409">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="379" y="128" key="SettingsEditor/-412.1080.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1584492492586" />
+    <state x="18" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584629017409" />
     <state x="165" y="12" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1584042001159" />
-    <state x="533" y="312" key="com.intellij.ide.util.TipDialog" timestamp="1584469429452">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="355" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1584627012160">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="533" y="312" key="com.intellij.ide.util.TipDialog/-412.1080.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1584469429452" />
+    <state x="355" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584627012160" />
     <state x="380" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1582836375742" />
     <state x="533" y="312" key="com.intellij.ide.util.TipDialog/1920.-330.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1583286945375" />
-    <state x="342" y="141" key="new project wizard" timestamp="1583286966693">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="272" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584629013722">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="272" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1584629013722" />
+    <state x="26" y="0" key="new project wizard" timestamp="1584629880632">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="26" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1584629880632" />
     <state x="342" y="141" key="new project wizard/1920.-330.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1583286966693" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1584631078427">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1584631078427" />
   </component>
 </project>

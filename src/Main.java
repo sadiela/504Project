@@ -11,7 +11,7 @@ public class Main {
         Crawler crawler = new Crawler();
         crawler.scrape("https://en.wikipedia.org/wiki/Wikipedia", 2);
         HashMap<String,Integer> hm = crawler.WordMap;
-        String[] sentences = crawler.WebContent.split("\\. ");
+        //String[] sentences = crawler.WebContent.split("\\. ");
         String[] sentences = "Hello my name is yousef. His name is marco".split("\\. ");
 
         System.out.println("Done with crawler");
@@ -38,6 +38,7 @@ public class Main {
 
         for (String phrase: testCases)
             System.out.println(phrase + "\t" + myCheck.check(phrase));
+
     }
 
 }
