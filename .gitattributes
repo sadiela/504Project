@@ -1,0 +1,4 @@
+*.ser filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+decompressed_text.txt filter=lfs diff=lfs merge=lfs -text
+plain_text.txt filter=lfs diff=lfs merge=lfs -text
