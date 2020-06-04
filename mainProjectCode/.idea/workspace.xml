@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1dc5e1c1-8801-4b3b-9a49-3d2ad6215397" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decompressed_text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/decompressed_text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/0.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/0.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/1.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/1.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/10.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/10.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/11.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/11.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/12.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/12.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/13.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/13.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/14.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/14.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/15.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/15.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/16.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/16.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/17.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/17.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/18.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/18.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/19.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/19.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/2.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/2.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/20.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/20.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/21.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/21.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/22.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/22.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/23.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/23.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/24.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/24.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/25.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/25.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/26.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/26.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/27.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/27.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/28.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/28.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/29.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/29.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/3.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/3.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/30.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/30.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/31.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/31.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/32.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/32.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/33.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/33.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/34.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/34.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/35.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/35.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/36.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/36.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/37.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/37.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/38.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/38.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/39.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/39.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/4.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/4.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/40.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/40.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/41.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/41.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/42.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/42.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/43.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/43.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/44.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/44.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/45.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/45.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/46.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/46.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/47.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/47.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/48.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/48.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/49.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/49.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/5.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/5.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/50.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/50.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/51.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/51.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/52.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/52.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/53.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/53.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/54.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/54.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/55.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/55.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/56.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/56.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/57.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/57.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/58.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/58.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/59.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/59.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/6.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/6.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/60.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/60.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/61.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/61.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/62.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/62.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/63.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/63.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/64.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/64.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/65.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/65.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/66.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/66.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/67.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/67.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/68.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/68.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/69.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/69.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/7.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/7.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/70.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/70.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/71.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/71.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/72.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/72.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/73.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/73.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/74.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/74.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/75.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/75.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/76.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/76.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/77.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/77.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/78.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/78.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/79.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/79.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/8.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/8.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/80.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/80.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/81.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/81.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/82.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/82.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/83.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/83.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/84.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/84.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/85.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/85.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/86.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/86.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/87.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/87.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/88.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/88.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/89.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/89.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/9.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/9.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/90.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/90.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/91.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/91.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/92.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/92.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/93.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/93.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/94.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/94.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/95.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/95.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/96.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/96.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/97.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/97.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/98.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/98.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/99.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/DataBase/99.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/1.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/1.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/10.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/11.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/12.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/13.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/14.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/15.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/2.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/2.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/3.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/3.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/4.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/4.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/5.ser" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/5.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/6.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/7.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/8.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LanguageCorrection/UserDataBase/9.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plain_text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plain_text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/0.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/0.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/1.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/1.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/10.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/10.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/11.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/11.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/12.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/12.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/13.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/13.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/14.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/14.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/15.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/15.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/16.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/16.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/17.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/17.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/18.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/18.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/19.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/19.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/2.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/2.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/20.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/20.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/21.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/21.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/22.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/22.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/23.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/23.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/24.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/24.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/25.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/25.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/26.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/26.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/27.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/27.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/28.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/28.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/29.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/29.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/3.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/3.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/30.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/30.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/31.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/31.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/32.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/32.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/33.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/33.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/34.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/34.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/35.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/35.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/36.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/36.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/37.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/37.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/38.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/38.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/39.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/39.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/4.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/4.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/40.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/40.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/41.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/41.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/42.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/42.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/43.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/43.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/44.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/44.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/45.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/45.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/46.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/46.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/47.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/47.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/48.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/48.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/49.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/49.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/5.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/5.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/50.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/50.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/51.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/51.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/52.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/52.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/53.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/53.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/54.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/54.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/55.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/55.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/56.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/56.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/57.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/57.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/58.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/58.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/59.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/59.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/6.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/6.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/60.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/60.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/61.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/61.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/62.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/62.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/63.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/63.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/64.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/64.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/65.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/65.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/66.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/66.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/67.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/67.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/68.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/68.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/69.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/69.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/7.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/7.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/70.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/70.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/71.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/71.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/72.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/72.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/73.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/73.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/74.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/74.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/75.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/75.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/76.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/76.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/77.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/77.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/78.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/78.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/79.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/79.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/8.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/8.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/80.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/80.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/81.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/81.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/82.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/82.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/83.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/83.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/84.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/84.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/85.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/85.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/86.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/86.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/87.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/87.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/88.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/88.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/89.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/89.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/9.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/9.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/90.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/90.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/91.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/91.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/92.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/92.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/93.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/93.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/94.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/94.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/95.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/95.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/96.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/96.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/97.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/97.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/98.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/98.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/99.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase/99.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testSamples.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/url.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1b029AB4rT1t69yh1Ghjagfmg9N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../finalexam" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="CheckerTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Tests.CheckerTests" />
+      <module name="LanguageCorrection" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrawlerTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Tests.CrawlerTests" />
+      <module name="LanguageCorrection" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GUI" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="runGUI" />
+      <module name="LanguageCorrection" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LanguageCorrection" />
+      <option name="PROGRAM_PARAMETERS" value="./checker --file testSamples.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CheckerTest" />
+      <item itemvalue="Application.CrawlerTest" />
+      <item itemvalue="Application.GUI" />
+      <item itemvalue="Application.Main" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dc5e1c1-8801-4b3b-9a49-3d2ad6215397" name="Default Changelist" comment="" />
+      <created>1587754537675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587754537675</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588435511238">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/-426.1080.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1588435511238" />
+    <state x="689" y="305" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588006672042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="305" key="#com.intellij.ide.util.TreeClassChooserDialog/-426.1080.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1588006672042" />
+    <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587754585426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-426.1080.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1587754585426" />
+    <state x="756" y="406" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587938259299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="406" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-426.1080.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1587938259299" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1588864307338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/-426.1080.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1588864307338" />
+    <state width="1877" height="315" key="GridCell.Tab.0.bottom" timestamp="1588435514746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="315" key="GridCell.Tab.0.bottom/-426.1080.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1588435514746" />
+    <state width="1877" height="315" key="GridCell.Tab.0.center" timestamp="1588435514746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="315" key="GridCell.Tab.0.center/-426.1080.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1588435514746" />
+    <state width="1877" height="315" key="GridCell.Tab.0.left" timestamp="1588435514746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="315" key="GridCell.Tab.0.left/-426.1080.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1588435514746" />
+    <state width="1877" height="315" key="GridCell.Tab.0.right" timestamp="1588435514746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="315" key="GridCell.Tab.0.right/-426.1080.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1588435514746" />
+    <state width="1877" height="203" key="GridCell.Tab.1.bottom" timestamp="1587934093195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="203" key="GridCell.Tab.1.bottom/-426.1080.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1587934093195" />
+    <state width="1877" height="203" key="GridCell.Tab.1.center" timestamp="1587934093195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="203" key="GridCell.Tab.1.center/-426.1080.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1587934093195" />
+    <state width="1877" height="203" key="GridCell.Tab.1.left" timestamp="1587934093195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="203" key="GridCell.Tab.1.left/-426.1080.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1587934093195" />
+    <state width="1877" height="203" key="GridCell.Tab.1.right" timestamp="1587934093195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="203" key="GridCell.Tab.1.right/-426.1080.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1587934093195" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1588864286047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/-426.1080.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1588864286047" />
+    <state x="342" y="141" key="new project wizard" timestamp="1588352166194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="141" key="new project wizard/-426.1080.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1588352166194" />
+    <state x="623" y="225" width="670" height="58" key="search.everywhere.popup" timestamp="1588006903530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="670" height="58" key="search.everywhere.popup/-426.1080.1368.892/0.0.1920.1040@0.0.1920.1040" timestamp="1588006903530" />
+  </component>
+</project>

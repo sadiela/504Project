@@ -1,0 +1,2 @@
+rootProject.name='504 Language Checker'
+include ':app'

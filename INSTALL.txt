@@ -1,0 +1,121 @@
+Instructions to install and run the project
+
+Pre-conditions
+* Minimum System Requirements-
+	* 8 GB RAM
+	* >1.5 GB of free storage space
+	* 1024x768 minimum screen resolution
+* OS- Our Project is an IntelliJ IDEA project, so this IDE is required to compile it from source.
+	* IntelliJ Idea Requirements-
+		* 64-bit versions of Microsoft Windows 10, 8 / macOS 10.13 or higher / GNOME or KDE desktop
+		* 2 GB RAM minimum, 8 GB RAM recommended
+		* 2.5 GB hard disk space, SSD recommended
+
+This code can also be run on any Windows/Mac/Linux 64 bit system that has the Java Runtime Environment(JRE) version 8 installed, to run the JAR executable file for this project.
+
+Supporting Files
+* Non Standard Libraries needed-
+org.jsoup
+org.json.JSONObject
+
+Instructions to add them to the project.
+Download json at : http://www.java2s.com/Code/Jar/o/Downloadorgjsonjar.htm
+Download jsoup at: http://www.java2s.com/Code/Jar/j/Downloadjsoup160jar.htm
+In IntelliJ: Click File from the toolbar -> project structure
+Click Module -> choose dependencies.
+Click the +  at the bottom and choose jars or directories
+Choose the jsoup and json folder from the program directory.
+
+* How to Use the Project- 
+Make sure to specify the "mainProjectCode" directory as the source file in the project structure when running the main project (i.e., not the android app).
+
+* Execution -
+
+Our program has two modes that you can run: the crawler mode,
+which takes a textfile containing a list of URLs and compiles a database of text,
+and the checker mode, which takes a textfile containing sentences to test and
+outputs a json file with suspicion levels for sentences and phrases.
+
+To run the crawler:
+Before running Main.java edit configuration to add the following program arguments:
+./crawler --file [PATH TO FILE OF URLs]
+Note that arguments MUST be in this format!
+
+To run the checker:
+Before running Main.java edit configuration to add the following program arguments:
+./checker --file [PATH TO FILE TO CHECK]
+Note that arguments MUST be in this format!
+
+To run the GUI:
+
+The GUI offers three functions.
+
+Crawler-
+This feature lets you crawl a specific link. You can type in the address of a website you wish to crawl in the first text box.
+Clicking on the [Crawl] button will start the crawling. Please note the GUI will display a warning if the URL is incorrect.
+If you wish to stop the crawler, you can click the [Stop Crawling] button. The system will stop its crawling.
+The progress bar displays the current progress.
+
+Generating a file-
+Enter a path where you have a sample file containing sentences to be tested.  Then click the [Generate] button.
+The system will process the file and output a JSON formatted file containing the suspicion scores at the same location. 
+
+Checking Suspicion of a sentence-
+
+*Caution* - Select a language and press the [Load Data] button first before trying this feature.
+The checker needs to have collected text and learnt some sentence associations first. Wait till the checker is rebuilt and a dialog box appears,
+saying Checker Rebuilt. This takes a while. The progress bar displays the current progress.
+This feature lets you check a sentence for suspicion. Enter a sentence in the third text box and click the [Check] button.
+The suspicion (in Percentage) will be displayed in the [Suspicion] box below the [Check] button. 
+
+To run/test the android app:
+1. Open the 504LanguageCheckerApp directory in Android Studio
+2. You should be able to run the app immediately on any android phone emulator
+3. Enter a starting URL in the top text bar and click the "crawl" button
+4. Wait for the text underneath the crawler to say "ready to check sentences!"
+5. Enter any sentence you would like to check in the lower text bar and click "check" 
+
+* Testing Information-
+	* System Tests
+	* Unit Tests
+
+* Assumptions-
+Minimum hardware requirements are met and IntelliJ IDEA/JRE is installed.
+
+* Installation Instructions-
+1. Clone or Download the project repository onto your local system.
+2. After unzipping it, launch IntelliJ IDEA and open the folder as a project from the File menu.
+3. Specify JAVA 8/11 as the SDK and add a configuration from the Add Configuration button on the top right part of the toolbar.
+4. In the Add Configuration dialog select Application from the left list, and select the Main class inside /group7/mainProjectCode/src/ as the main class.
+5. Run the class.
+
+* Several clear examples that illustrate the main features of your project
+The user will be asked to input a list of urls into our crawler, the size of the Data(bytes),
+ and the path where the data will be stored.
+E.g. crawler.scrape(urls, databaseSize, path, language);
+
+Build the checker.
+E.g. Checker myChecker = new Checker(hm, sentences);
+
+Input testcase:       the test case can be input by the GUI interface.
+E.g. Vector<String> testCases = new Vector<>();
+     testCases.add("this our is first sentence");
+
+* Descriptions of testing patterns, and instructions on how to exercise them:
+* Unit tests-
+In the “CheckerTest.java”, “CrawlerTest.java”, “LanguageTest,.java”, we have some unit tests examples.
+E.g. In “CrawlerTest.java”, we add some suspicious test sentences and problem sentences.
+// suspicious
+testSamples.add("ayyyyyyyy thisssss niceeeeeeeeeeee sentencee!");
+testSamples.add("donkeys eat pie because they need to workout nicely");
+// problems
+testSamples.add("");
+testSamples.add("   ");
+testSamples.add(null);
+
+* System Tests-
+Run the file called “CheckerTest.java”, it will depress the database and print out sentences
+in the database to verify that.
+“CrawlerTest.java”. crawl the link, srape the links. Check the database and print some sentence
+to make sure the information is there.
+“LanguageTest,.java”,  choose  language and the corresponding links, crawl the links and print the results.

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">504 Language Checker</string>
+    <string name="url_text">Enter URL</string>
+    <string name="crawl_button">Crawl</string>
+    <string name="sentence_text">Enter Sentence</string>
+    <string name="check_button">Check Sentence</string>
+    <string name="suspicion_level">Suspicion Level</string>
+    <string name="checker_state">Please crawl a URL</string>
+</resources>
