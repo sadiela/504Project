@@ -12,6 +12,8 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
 
+// this code is adapted from Stephen`s blog: "How to make a simple web crawler in Java". 
+// Link: http://www.netinstructions.com/how-to-make-a-simple-web-crawler-in-java/
 public class Crawler {
     // CONSTANTS
     // define the maximum number of mappers that run at the same time
